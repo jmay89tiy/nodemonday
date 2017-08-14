@@ -1,0 +1,16 @@
+{
+  "name": "nodemonday",
+  "version": "1.0.0",
+  "description": "this is for the coloration of moment data for node day 1",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^2.1.0",
+    "moment": "^2.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "testindex.js"
+  },
+  "author": "josh may",
+  "license": "ISC"
+}
